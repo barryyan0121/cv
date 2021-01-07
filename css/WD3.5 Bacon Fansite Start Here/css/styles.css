@@ -1,0 +1,23 @@
+/*********************tag Selectors********************/
+h1 {
+  color: red;
+  font-size: 20px;
+
+}
+
+img {
+  background-color: red;
+}
+/*********************class Selectors********************/
+.bacon {
+  background-color: green;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/*********************id Selecters********************/
+
+#heading {
+  color: blue;
+}
